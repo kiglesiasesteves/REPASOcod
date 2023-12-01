@@ -2,10 +2,10 @@
 
 * Realiza el diagrama de flujo con draw.io (exportalo como png):
 
-![Futbol.drawio.png](..%2FFutbol.drawio.png)
+![Futbol.drawio.png](/home/dam/Escritorio/repasocod/boletin15contornos/DIagramaFutbol.drawio.png)
 
 * Realiza el diagrama de clases con draw.io (exportalo como png):
-![DIagramaFutbol.drawio.png](..%2FDIagramaFutbol.drawio.png)
+  ![DIagramaFutbol.drawio.png](/home/dam/Escritorio/repasocod/boletin15contornos/Futbol.drawio.png)
 
 * Genera el jar<br>
 
