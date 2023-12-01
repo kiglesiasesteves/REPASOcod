@@ -2,11 +2,10 @@
 
 * Realiza el diagrama de flujo con draw.io (exportalo como png):
 
-[/home/dam/Escritorio/repasocod/boletin15contornos/DIagramaFutbol.drawio.png](https://github.com/kiglesiasesteves/REPASOcod/blob/main/DIagramaFutbol.drawio.png))
+[/home/dam/Escritorio/repasocod/boletin15contornos/DIagramaFutbol.drawio.png](https://github.com/kiglesiasesteves/REPASOcod/blob/main/DIagramaFutbol.drawio.png)
 
 * Realiza el diagrama de clases con draw.io (exportalo como png):
-  ![DIagramaFutbol.drawio.png](/home/dam/Escritorio/repasocod/boletin15contornos/Futbol.drawio.png)
-
+[/home/dam/Escritorio/repasocod/boletin15contornos/Futbol.drawio.png](https://github.com/kiglesiasesteves/REPASOcod/blob/main/Futbol.drawio.png)
 * Genera el jar<br>
 
 (Project Structures/Artifacts & Build/Build Artifacts) <br>
