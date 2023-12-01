@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println(fut.toString());
         System.out.println(entr.toString());
+        System.out.println("FIN DO PROGRAMA");
     }
 
 }
