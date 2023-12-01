@@ -2,7 +2,7 @@
 
 * Realiza el diagrama de flujo con draw.io (exportalo como png):
 
-![Futbol.drawio.png](/home/dam/Escritorio/repasocod/boletin15contornos/DIagramaFutbol.drawio.png)
+[/home/dam/Escritorio/repasocod/boletin15contornos/DIagramaFutbol.drawio.png](https://github.com/kiglesiasesteves/REPASOcod/blob/main/DIagramaFutbol.drawio.png))
 
 * Realiza el diagrama de clases con draw.io (exportalo como png):
   ![DIagramaFutbol.drawio.png](/home/dam/Escritorio/repasocod/boletin15contornos/Futbol.drawio.png)
